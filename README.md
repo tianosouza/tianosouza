@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href=https://www.uninassau.edu.br/>UNINASSAU</a>.
-- 🎓 &nbsp; Estudando trilha **FRONT-END** na <a href=https://dio.me/>Dio,me</a>
+- 🎓 &nbsp; Estudando trilha **FRONT-END** na <a href=https://dio.me/>Dio.me</a>
 - 🌱 &nbsp; Estou focado no aprendizado em **FRONT-END**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
