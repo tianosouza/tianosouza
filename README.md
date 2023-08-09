@@ -8,12 +8,15 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **"Esstudando as skill"**
+**Trilha de Front-end By DIO.me**    
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) **FINALIZADO**  
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) **ESTUDANO RESPONSIVIDADE**  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)   
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  **Bootcamp Back-end SantanderBeças By DIO.me**  
+  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit)
 
-**Ferramentas de Desenvolvimento**
+**Ferramentas de Desenvolvimento** 
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
