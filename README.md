@@ -3,18 +3,19 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href=https://www.uninassau.edu.br/>UNINASSAU</a>.
 - 🎓 &nbsp; Estudando trilha **FRONT-END** na <a href=https://dio.me/>Dio.me</a>
-- 🌱 &nbsp; Estou focado no aprendizado em **FRONT-END**.
+- 🎓 &nbsp; Estudando trilha **BACK-END** na <a href=https://dio.me/>Dio.me</a> pelo Bootcamp | Santander
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **"Esstudando as skill"**
 **Trilha de Front-end By DIO.me**    
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) **FINALIZADO**  
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) **ESTUDANO RESPONSIVIDADE**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)   
+  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) **FINALIZADO**  
+  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) **ESTUDANO RESPONSIVIDADE**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)   
 
   **Bootcamp Back-end SantanderBeças By DIO.me**  
-  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit)
+  ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 **Ferramentas de Desenvolvimento** 
 
@@ -29,3 +30,11 @@
 </a>
 
 <br/>
+
+<h2>Conecte-se comigo</h2>
+   <a href="https://www.linkedin.com/in/tianosouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/ltianosouzal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "lcristianosouzal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+    
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/lcristianosouzal)
