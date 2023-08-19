@@ -15,7 +15,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)   
 
   **Bootcamp Back-end SantanderBeças By DIO.me**  
-  ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+  ![Java](https://img.shields.io/badge/Java-222?style=for-the-badge&logo=java)
 
 **Ferramentas de Desenvolvimento** 
 
