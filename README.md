@@ -1,15 +1,14 @@
 <h3>Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href=https://www.uninassau.edu.br/>UNINASSAU</a>.
-
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **"Esstudando as skill"**
 **Trilha de Front-end By DIO.me**    
-  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) **FINALIZADO**  
+  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)   
 
 
 **Ferramentas de Desenvolvimento** 
