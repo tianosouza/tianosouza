@@ -1,6 +1,4 @@
 <h3>Sobre mim </h3>
-Olá! Meu nome é Orlando Junior, estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.uninassau.edu.br/institucional/campina-grande" onclick="window.open(this.href, '_blank'); return false;">UNINASSAU - CAMPINA GRANDE - PB</a>.
-
 
 - 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href=https://www.uninassau.edu.br/>UNINASSAU</a>.
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
